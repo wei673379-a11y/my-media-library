@@ -1,0 +1,27 @@
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
+
+# ==================== 🌍 国际新闻与财经 ====================
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" group-title="🌍 国际新闻",CNA 亚洲新闻台
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="DW" tvg-name="DW English" group-title="🌍 国际新闻",DW 德国之声英语
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK World Japan" group-title="🌍 国际新闻",NHK World 日本国际台
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera English" group-title="🌍 国际新闻",Al Jazeera 半岛英语
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-name="Bloomberg" group-title="🌍 国际新闻",Bloomberg 彭博财经
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-name="France 24 English" group-title="🌍 国际新闻",France 24 法国24台
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+
+# ==================== 🇹🇼 台湾及华语精选 ====================
+#EXTINF:-1 tvg-name="TaiwanPlus" group-title="🇹🇼 台湾及华语",TaiwanPlus (官方英语)
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 tvg-name="大爱一台" group-title="🇹🇼 台湾及华语",大爱一台 (高清直链)
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+
+# ==================== 🇨🇳 中国大陆 ====================
+#EXTINF:-1 tvg-name="CGTN" group-title="🇨🇳 中国大陆",CGTN 英语新闻
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-name="CGTN 纪录" group-title="🇨🇳 中国大陆",CGTN 纪录频道
+https://news.cgtn.com/resource/live/documentary/cgtn-d.m3u8
